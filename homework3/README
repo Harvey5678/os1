@@ -1,0 +1,4 @@
+Using this command to compile my program
+gcc --std=gnu99 -o smallsh shell.c
+
+Have a nice day!!!
